@@ -19,6 +19,7 @@
         android:background="@drawable/rounded_corner"
         android:text="Realizar Leitura"
         android:textAllCaps="false"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toTopOf="@+id/btnhistorico"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -38,6 +39,7 @@
         android:onClick="telahistorico"
         android:text="Histórico"
         android:textAllCaps="false"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnleitor" />
